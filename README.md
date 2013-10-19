@@ -2,6 +2,8 @@
 
 A short example of how to read 125 kHz RFID tags using an Arduino and a RMD6300 RFID module
 
+See a video here on how it works in action [Youtube] (http://www.youtube.com/watch?v=u8YD3-BrHv0)
+
 ## Required hardware
 
 * [Arduino Uno](http://arduino.cc/en/Main/ArduinoBoardUno) (or other Arduino)
